@@ -2,7 +2,7 @@
 # FREE SCRIPT FOR EVERYONE
 #---------------------------| Import |---------------------------#
 import requests,bs4,json,uuid,os,sys,random,datetime,time,re,urllib3,base64,string,platform,httpx,mechanize,rich,json,subprocess
-print('<|●|> Loading System ')
+print(' Loading System ●●● ')
 try:
 	from time import sleep
 	from bs4 import BeautifulSoup as sop
@@ -13,7 +13,7 @@ try:
 	from os import system as cmd
 	from concurrent.futures import ThreadPoolExecutor as tred 
 except ModuleNotFoundError:
-	print('<|●|> Module Installing ')
+	print(' Module Installing ●●● ')
 	
 #---------------------------| User Agent Up System 2 |---------------------------#
 def ___uax___():
@@ -1187,39 +1187,41 @@ def clear():os.system('clear');print(logo)
 def linex():print(f'{white}───────────────────────────────────────────────')
 #---------------------------| Logo |---------------------------#
 os.system('clear')
-os.system('espeak -a 200 " Assalamo' 'alaikum"')
+os.system('espeak -a 200 " Assalam' 'o' 'Alaikum"')
 os.system('espeak -a 200 " Your,   Real,  Name,"')
-NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
+NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME ?\033[1;91m:\33[1;32m')
 os.system('espeak -a 200 "well,come to,tabbu, tools"')
 os.system('xdg-open https://www.facebook.com/TabbuArain')
 logo=(f'''
-{G}┏┳┓┏┓┳┓┳┓┳┳ 
-{W} ┃ ┣┫┣┫┣┫┃┃  
-{G} ┻ ┛┗┻┛┻┛┗┛{G}
-{W}──────────────────────────────────────────────────
+{G}  _____      _     _           
+{W} /__   \__ _| |__ | |__  _   _ 
+{G}  / /\/ _` | '_ \| '_ \| | | |  
+{W} / / | (_| | |_) | |_) | |_| |
+{G} \/   \__,_|_.__/|_.__/ \__,_|
+{R}──────────────────────────────────────────────────
 {xd} DEVELOPER {xd} TABBU ARAIN
-{xd} TOOLS     {xd} RANDOM{xd}CLONING
+{xd} TOOLS     {xd} RANDOM CLONING
 {xd} STATUS    {xd} {G}FREE
-{W}──────────────────────────────────────────────────''')
+{R}──────────────────────────────────────────────────''')
 #---------------------------| Menux |---------------------------#
 def _____menux_____():
 	clear()
-	print(f"{white}<|1|> Random Cloning ");print(f"{white}<|2|> Old Cloning ");linex();option=input(f"{white}<|?|> Choice >> ")
+	print(f"{white}|1| Random Cloning ");print(f"{white}|2| Old Cloning ");linex();option=input(f"{white} Choice ? | 1 or 2 |  ")
 	if option in ["1"]:_____randmx_____()
 	if option in ["2"]:_____oldx_____()
 	else:exit()
 #---------------------------| Random |---------------------------#
 def _____randmx_____():
 	clear()
-	print(f"{white}<|1|> Random {white}<<{green}Bd{white}>> Cloning System {white}<<{green}1{white}>>");print(f"{white}<|2|> Random {white}<<{green}Bd{white}>> Cloning System {white}<<{green}2{white}>>");print(f"{white}<|3|> Random {white}<<{green}India{white}>> Cloning ");print(f"{white}<|4|> Random {white}<<{green}Nepal{white}>> Cloning ");print(f"{white}<|5|> Random {white}<<{green}Pakistan{white}>> Cloning ");linex();option=input(f"{white}<|?|> Choice >> ")
-	if option in ["1"]:_____Bd1x_____()
-	if option in ["2"]:_____Bd2x_____()
-	if option in ["3"]:_____Indiax_____()
-	if option in ["4"]:_____Nepalx_____()
-	if option in ["5"]:_____Pakistanx_____()
+	print(f"{white}|1| Random {white}<<{green}Ban{white}>> Cloning System {white}<<{green}1{white}>>");print(f"{white}|2| Random {white}<<{green}Ban{white}>> Cloning System {white}<<{green}2{white}>>");print(f"{white}|3| Random {white}<<{green}Ind{white}>> Cloning ");print(f"{white}|4| Random {white}<<{green}Nep{white}>> Cloning ");print(f"{white}|5| Random {white}<<{green}Pak{white}>> Cloning ");linex();option=input(f"{white} Choice ? | 1,2,3,4,5 |  ")
+	if option in ["1"]:_____Bangladesh1_____()
+	if option in ["2"]:_____Bangladesh2_____()
+	if option in ["3"]:_____India_____()
+	if option in ["4"]:_____Nepal_____()
+	if option in ["5"]:_____Pakistan_____()
 	else:exit()
 #---------------------------| Random Bd System 1 |---------------------------#
-def _____bd1x_____():
+def _____Bangladesh1_____():
 	clear()
 	print(f"{white}<|●|> Example >> 01728 | 01987 | 01818 | 01610 ");linex()
 	code=input(f"{white}<|?|> Choice  >> ")
@@ -1242,7 +1244,7 @@ def _____bd1x_____():
 			if methd in ['6']:TABBUx.submit(____M6____,idf,pwv)
 	print("");linex();print(f"{white}<|●|> Cloning Complete Brother ");print(f'{white}<|●|> Total Ok >> '+str(len(ok)));print(f'{white}<|●|> Total Cp >> '+str(len(cp)));linex();exit()
 #---------------------------| Random Bd System 2 |---------------------------#
-def _____bd2x_____():
+def _____Bangladesh2_____():
 	clear()
 	print(f"{white}<|●|> Example >> 017 | 019 | 018 | 016 ");linex()
 	code=input(f"{white}<|?|> Choice  >> ")
@@ -1265,7 +1267,7 @@ def _____bd2x_____():
 			if methd in ['6']:TABBUx.submit(____M6____,idf,pwv)
 	print("");linex();print(f"{white}<|●|> Cloning Complete Brother ");print(f'{white}<|●|> Total Ok >> '+str(len(ok)));print(f'{white}<|●|> Total Cp >> '+str(len(cp)));linex();exit()
 #---------------------------| Random India |---------------------------#
-def _____Indiax_____():
+def _____India_____():
 	clear()
 	print(f"{white}<|●|> Example >> +91639 | +98171 | +91821 ");linex()
 	code=input(f"{white}<|?|> Choice  >> ")
@@ -1288,7 +1290,7 @@ def _____Indiax_____():
 			if methd in ['6']:TABBUx.submit(____M6____,idf,pwv)
 	print("");linex();print(f"{white}<|●|> Cloning Complete Brother ");print(f'{white}<|●|> Total Ok >> '+str(len(ok)));print(f'{white}<|●|> Total Cp >> '+str(len(cp)));linex();exit()
 #---------------------------| Random Nepal |---------------------------#
-def _____nepalx_____():
+def _____Nepal_____():
 	clear()
 	print(f"{white}<|●|> Example >> 9815 | 9814 | 9861 ");linex()
 	code=input(f"{white}<|?|> Choice  >> ")
@@ -1311,7 +1313,7 @@ def _____nepalx_____():
 			if methd in ['6']:TABBUx.submit(____M6____,idf,pwv)
 	print("");linex();print(f"{white}<|●|> Cloning Complete Brother ");print(f'{white}<|●|> Total Ok >> '+str(len(ok)));print(f'{white}<|●|> Total Cp >> '+str(len(cp)));linex();exit()
 #---------------------------| Random Pakistanx |---------------------------#
-def _____pakistanx_____():
+def _____Pakistan_____():
 	clear()
 	print(f"{white}<|●|> Example >> 0306 | 0335 | 0315 ");linex()
 	code=input(f"{white}<|?|> Choice  >> ")
