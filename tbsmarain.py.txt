@@ -1,4 +1,4 @@
-# SCRIPTS CREATE BY TABBU ARAIN 
+# SCRIPT CREATED BY TABBU ARAIN 
 # FREE SCRIPT FOR EVERYONE
 #---------------------------| Import |---------------------------#
 import requests,bs4,json,uuid,os,sys,random,datetime,time,re,urllib3,base64,string,platform,httpx,mechanize,rich,json,subprocess
