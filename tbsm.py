@@ -1193,8 +1193,8 @@ NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME ?\
 os.system('espeak -a 200 "well,come to,tabbu, tools"')
 os.system('xdg-open https://www.facebook.com/TabbuArain')
 logo=(f'''
-{G}  _____      _     _           
-{W} /__   \__ _| |__ | |__  _   _ 
+{G} _____      _     _           
+{W}/__   \__ _| |__ | |__  _   _ 
 {G}  / /\/ _` | '_ \| '_ \| | | |  
 {W} / / | (_| | |_) | |_) | |_| |
 {G} \/   \__,_|_.__/|_.__/ \__,_|
